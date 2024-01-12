@@ -1,0 +1,40 @@
+How I accomplished each item:
+
+-I used various HTML tags like <header>, <section>, <ul>, <li>, and <footer> for structuring the content.
+
+-I also used various CSS selectors like element selectors (body, header, main-content, footer), class selectors (.main-content), and pseudo-class selectors (@media, @keyframes).
+
+-I also applied various CSS styles such as font styling, colors, padding, and background colors.
+
+-I used Flexbox to create a responsive layout, adjusting the padding and layout for smaller screens.
+
+-I used the @media query for responsiveness, adjusting the layout for screens with a maximum width of 600px.
+
+-I applied a simple animation (fadeIn) to the main-content section to create a smooth fade-in effect when the page loads. 
+
+
+Insights that I have gathered while accomplishing LT0, LT1, and M1M2 (Guided Exercise 1)
+
+GitHub enables us to collaborate on projects, track changes, and manage different versions of our code. It is also a way for us, developers to  to propose changes, discuss them, 
+and merge the changes into the main codebase. And in using VScode, I learned that it provides intelligent code completion, suggestions, and auto-completion, enhancing developer 
+productivity. And it also allows developers to customize their environment for specific languages, frameworks, or tools.
+
+
+Struggles that you have encountered while accomplishing LT0, LT1, and M1M2 (Guided Exercise 1)
+
+I find learning and remembering Git commands quite challenging, especially for a beginner like me. Deciding on an effective repository structure and proper branching strategies 
+are also a bit confusing to me.
+
+
+How I could improve my website in the future
+
+To improve my website, I will ensure that my website is responsive and works well on various devices and screen sizes, I will test regularly and make adjustments to improve the user experience.
+I will regularly update and improve my content, Ensure it remains relevant, informative, and engaging. And I will consider adding multimedia elements like images, videos, and infographics.
+I will keep my website secure by using HTTPS, and implement security best practices.
+
+
+I believe that the key to improvement is continuous evaluation and adaptation. I will regularly review my website's performance, gather user feedback, and be open to making changes based on my findings 
+and the evolving needs of my audience.
+
+
+
