@@ -24,6 +24,7 @@ header {
     height: auto;
     display: block;
     margin: 20px auto;
+    transition: transform 0.5s ease-in-out; /* Added transition */
 }
 
 .skills-interests {
@@ -35,6 +36,7 @@ header {
 .skills,
 .interests {
     flex-basis: 48%;
+    transition: transform 0.5s ease-in-out; /* Added transition */
 }
 
 .skills h2,
@@ -90,5 +92,6 @@ ul li::before {
         transform: translateY(-15px);
     }
 }
+
 
 
