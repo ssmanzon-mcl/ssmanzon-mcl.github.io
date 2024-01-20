@@ -8,7 +8,7 @@ How I accomplished each item:
 
 -I used Flexbox to create a responsive layout, adjusting the padding and layout for smaller screens.
 
--I used the @media query for responsiveness, adjusting the layout for screens with a maximum width of 600px.
+-I used the @media query for responsiveness, adjusting the layout for screens with a maximum width of 800px.
 
 -I applied cool bounce-in animation to the main-content section to create a smooth bounce-in effect when the page loads. 
 
